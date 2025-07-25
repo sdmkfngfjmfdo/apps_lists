@@ -1,0 +1,92 @@
+{
+  "categories": [
+    {
+      "title": "Jewish Learning & Texts",
+      "packages": [
+        "com.ou.alldaf",
+        "com.ou.allmishnah",
+        "com.lakewooddafyomi.app",
+        "org.sefaria.sefaria",
+        "com.torahanytime.betaapp",
+        "oyw.tnc"
+      ]
+    },
+    {
+      "title": "Jewish Life & Media",
+      "packages": [
+        "app.tfs.prod",
+        "com.rocketouch.CRCKosher2013",
+        "com.brochos.jstream",
+        "org.ou.kosherproducts",
+        "com.android.cts.lionscribe.elist",
+        "com.android.cts.smartzmanimk",
+        "tfilon.tfilon",
+        "co.median.android.ljnaek",
+        "com.danismithproductions.yidkit",
+        "fm.jewishmusic.application"
+      ]
+    },
+    {
+      "title": "Essential Tools",
+      "packages": [
+        "com.google.android.calculator",
+        "com.google.android.GoogleCamera",
+        "com.google.android.deskclock",
+        "com.google.android.contacts",
+        "com.google.android.apps.nbu.files",
+        "com.google.android.apps.photosgo",
+        "com.google.android.gm",
+        "com.google.android.apps.messaging",
+        "com.google.android.apps.photos",
+        "com.google.android.apps.recorder",
+        "in.krosbits.musicolet",
+        "tz.co.wadau.allpdf",
+        "com.riteshsahu.SMSBackupRestore"
+      ]
+    },
+    {
+      "title": "Productivity & Organization",
+      "packages": [
+        "com.socialnmobile.dictapps.notepad.color.note",
+        "com.google.android.calendar",
+        "com.google.android.apps.docs",
+        "com.google.android.keep",
+        "com.google.android.apps.tasks",
+        "com.google.android.apps.translate",
+        "com.google.android.apps.googlevoice",
+        "com.Splitwise.SplitwiseMobile",
+        "com.waveapps.sales"
+      ]
+    },
+    {
+      "title": "Travel & Transit",
+      "packages": [
+        "com.avis.androidapp",
+        "com.flightaware.android.liveFlightTracker",
+        "com.hertz.android.digital",
+        "me.lyft.android",
+        "com.ubercab",
+        "com.waze"
+      ]
+    },
+    {
+      "title": "Shopping & Delivery",
+      "packages": [
+        "com.dd.doordash",
+        "com.thehomedepot",
+        "com.ubercab.eats"
+      ]
+    },
+    {
+      "title": "General Utilities",
+      "packages": [
+        "com.radiocom",
+        "bin.mt.plus",
+        "com.reqable.android",
+        "com.usmobile.dashboard",
+        "com.weawow",
+        "com.lionscribe.hebdate"
+      ]
+    }
+  ]
+}
