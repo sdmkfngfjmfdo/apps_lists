@@ -18,6 +18,7 @@
       "packages": [
         "app.tfs.music",
         "com.ubercab.eats",
+        "com.nhl.gc1112.free",
         "com.kiloo.subwaysurf",
         "pro.vitalii.andropods",
         "com.brochos.jstream",
@@ -58,6 +59,7 @@
       "title": "Travel & Transit",
       "packages": [
         "com.ubercab",
+        "com.limebike",
         "com.waze",
         "com.mta.mobileapp",
         "com.gettaxi.android",
