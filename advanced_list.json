@@ -17,6 +17,7 @@
       "title": "Entertainment & Media",
       "packages": [
         "app.tfs.music",
+        "com.ubercab.eats",
         "pro.vitalii.andropods",
         "com.brochos.jstream",
         "fm.jewishmusic.application",
