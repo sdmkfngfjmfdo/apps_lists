@@ -17,6 +17,7 @@
       "title": "Entertainment & Media",
       "packages": [
         "app.tfs.music",
+        "app.tfs.prod",
         "com.ubercab.eats",
         "com.nhl.gc1112.free",
         "com.kiloo.subwaysurf",
