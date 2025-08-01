@@ -6,7 +6,7 @@
         "org.sefaria.sefaria",
         "com.lionscribe.elist",
         "com.lionscribe.hebdate",
-        "com.tappix.android.zman",
+        "com.gindin.zmanim.android",
         "tfilon.tfilon",
         "com.danismithproductions.yidkit",
         "com.rocketouch.CRCKosher2013",
@@ -17,10 +17,14 @@
       "title": "Entertainment & Media",
       "packages": [
         "app.tfs.music",
+        "com.ubercab.eats",
+        "com.nhl.gc1112.free",
+        "com.kiloo.subwaysurf",
         "pro.vitalii.andropods",
         "com.brochos.jstream",
         "fm.jewishmusic.application",
-        "in.krosbits.musicolet"
+        "in.krosbits.musicolet",
+        "com.apple.android.music"
       ]
     },
     {
@@ -31,6 +35,7 @@
         "com.google.android.contacts",
         "com.google.android.apps.nbu.files",
         "com.google.android.apps.photosgo",
+        "com.google.android.gm",
         "com.google.android.dialer",
         "com.google.android.apps.messaging",
         "com.google.android.apps.photos",
@@ -41,8 +46,9 @@
     {
       "title": "Productivity & Organization",
       "packages": [
-        "com.google.android.gm",
         "pdf.reader.pdfviewer.pdfeditor",
+        "com.amazon.mShop.android.shopping",
+        "ai.perplexity.app.android",
         "com.google.android.calendar",
         "com.google.android.keep",
         "com.google.android.apps.tasks",
@@ -53,6 +59,7 @@
       "title": "Travel & Transit",
       "packages": [
         "com.ubercab",
+        "com.limebike",
         "com.waze",
         "com.mta.mobileapp",
         "com.gettaxi.android",
