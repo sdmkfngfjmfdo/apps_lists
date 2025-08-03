@@ -1,74 +1,81 @@
 {
   "categories": [
     {
-      "title": "Judaism",
-      "packages": [
-        "org.sefaria.sefaria",
-        "com.lionscribe.elist",
-        "com.lionscribe.hebdate",
-        "com.gindin.zmanim.android",
-        "tfilon.tfilon",
-        "com.danismithproductions.yidkit",
-        "com.rocketouch.CRCKosher2013",
-        "org.ou.kosherproducts"
-      ]
+      "title": "Entertainment",
+      "packages": ["app.tfs.music"]
     },
     {
-      "title": "Entertainment & Media",
-      "packages": [
-        "app.tfs.music",
-        "com.ubercab.eats",
-        "com.nhl.gc1112.free",
-        "com.kiloo.subwaysurf",
-        "pro.vitalii.andropods",
-        "com.brochos.jstream",
-        "fm.jewishmusic.application",
-        "in.krosbits.musicolet",
-        "com.apple.android.music"
-      ]
-    },
-    {
-      "title": "Essential Tools",
+      "title": "Tools",
       "packages": [
         "com.google.android.calculator",
-        "com.google.android.deskclock",
-        "com.google.android.contacts",
+        "com.alert.meserhadash",
+        "com.google.android.apps.translate",
+        "com.samsung.accessory.fridaymgr",
+        "com.brochos.tizkor.sefira.lite",
+        "com.riteshsahu.SMSBackupRestore",
         "com.google.android.apps.nbu.files",
-        "com.google.android.apps.photosgo",
-        "com.google.android.gm",
-        "com.google.android.dialer",
-        "com.google.android.apps.messaging",
-        "com.google.android.apps.photos",
-        "com.google.android.apps.recorder",
-        "com.riteshsahu.SMSBackupRestore"
+        "com.google.android.deskclock"
       ]
     },
     {
-      "title": "Productivity & Organization",
+      "title": "Maps & Navigation",
       "packages": [
-        "pdf.reader.pdfviewer.pdfeditor",
-        "com.amazon.mShop.android.shopping",
-        "ai.perplexity.app.android",
-        "com.google.android.calendar",
-        "com.google.android.keep",
-        "com.google.android.apps.tasks",
-        "com.google.android.apps.translate"
-      ]
-    },
-    {
-      "title": "Travel & Transit",
-      "packages": [
-        "com.ubercab",
-        "com.limebike",
-        "com.waze",
-        "com.mta.mobileapp",
         "com.gettaxi.android",
-        "com.mpspark.consumer.mpsconsumer",
-        "net.sharewire.Nycdot",
-        "com.accuweather.android",
+        "com.ubercab",
+        "com.waze",
+        "me.lyft.android",
+        "co.hopon.client",
+        "com.mosko.ravkav",
         "com.tranzmate",
-        "com.pcentra.ravkavonlinemobile"
+        "com.mta.mobileapp",
+        "com.njtransit.njtapp",
+        "com.citibikenyc.citibike"
       ]
+    },
+    {
+      "title": "Productivity",
+      "packages": [
+        "com.google.android.apps.photos",
+        "it.levy.hc",
+        "com.lionscribe.hebdate",
+        "com.google.android.apps.tasks",
+        "com.mpspark.consumer.mpsconsumer",
+        "com.google.android.calendar",
+        "com.google.android.keep"
+      ]
+    },
+    {
+      "title": "Communication",
+      "packages": ["com.google.android.gm", "com.google.android.apps.messaging", "com.google.android.contacts", "com.lionscribe.elist"]
+    },
+    {
+      "title": "Music & Audio",
+      "packages": [
+        "com.google.android.apps.wearables.maestro.companion",
+        "com.google.android.apps.recorder",
+        "com.bose.monet",
+        "in.krosbits.musicolet",
+        "pro.vitalii.andropods"
+      ]
+    },
+    {
+      "title": "Books & Reference",
+      "packages": [
+        "com.kolyaakob.app",
+        "com.karriapps.smartsiddurlite",
+        "il.avimak.Tehillim",
+        "il.avimak.TehillatHashem",
+        "com.siddurim.klilat_yofi.sfard",
+        "com.siddurim.klilat_yofi.ashkenaz"
+      ]
+    },
+    {
+      "title": "Lifestyle",
+      "packages": ["com.gindin.zmanim.android", "com.danismithproductions.yidkit", "com.rocketouch.CRCKosher2013", "global.hatzalah.app"]
+    },
+    {
+      "title": "Travel & Local",
+      "packages": ["com.accuweather.android", "info.mta.mymta", "net.sharewire.Nycdot", "global.chaverim.app"]
     }
   ]
 }
