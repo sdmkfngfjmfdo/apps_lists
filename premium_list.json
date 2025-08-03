@@ -1,0 +1,68 @@
+{
+  "categories": [
+    {
+      "title": "Judaism",
+      "packages": [
+        "org.sefaria.sefaria",
+      ]
+    },
+    {
+      "title": "Entertainment & Media",
+      "packages": [
+        "app.tfs.music",
+        "app.tfs.prod",
+        "com.ubercab.eats",
+        "com.nhl.gc1112.free",
+        "com.kiloo.subwaysurf",
+        "pro.vitalii.andropods",
+        "com.brochos.jstream",
+        "fm.jewishmusic.application",
+        "in.krosbits.musicolet",
+        "com.apple.android.music"
+      ]
+    },
+    {
+      "title": "Essential Tools",
+      "packages": [
+        "com.google.android.calculator",
+        "com.google.android.deskclock",
+        "com.google.android.contacts",
+        "com.google.android.apps.nbu.files",
+        "com.google.android.apps.photosgo",
+        "com.google.android.gm",
+        "com.google.android.dialer",
+        "com.google.android.apps.messaging",
+        "com.google.android.apps.photos",
+        "com.google.android.apps.recorder",
+        "com.riteshsahu.SMSBackupRestore"
+      ]
+    },
+    {
+      "title": "Productivity & Organization",
+      "packages": [
+        "pdf.reader.pdfviewer.pdfeditor",
+        "com.amazon.mShop.android.shopping",
+        "ai.perplexity.app.android",
+        "com.google.android.calendar",
+        "com.google.android.keep",
+        "com.google.android.apps.tasks",
+        "com.google.android.apps.translate"
+      ]
+    },
+    {
+      "title": "Travel & Transit",
+      "packages": [
+        "com.ubercab",
+        "com.limebike",
+        "com.waze",
+        "com.mta.mobileapp",
+        "com.gettaxi.android",
+        "com.mpspark.consumer.mpsconsumer",
+        "net.sharewire.Nycdot",
+        "com.accuweather.android",
+        "com.tranzmate",
+        "com.pcentra.ravkavonlinemobile"
+      ]
+    }
+  ]
+}
