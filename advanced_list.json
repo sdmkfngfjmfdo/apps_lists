@@ -20,9 +20,10 @@
     {
       "title": "Maps & Navigation",
       "packages": [
-        "com.gettaxi.android",
-        "com.ubercab",
+        "com.google.android.apps.maps",
         "com.waze",
+        "com.ubercab",
+        "com.gettaxi.android",
         "me.lyft.android",
         "co.hopon.client",
         "com.mosko.ravkav",
