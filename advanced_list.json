@@ -50,7 +50,7 @@
     },
     {
       "title": "Communication",
-      "packages": ["com.google.android.gm", "com.google.android.apps.messaging", "com.google.android.contacts", "com.lionscribe.elist"]
+      "packages": ["com.readdle.spark", "com.google.android.gm", "com.google.android.apps.messaging", "com.google.android.contacts", "com.lionscribe.elist"]
     },
     {
       "title": "Music & Audio",
