@@ -3,6 +3,7 @@
     {
       "title": "Isaac",
       "packages": ["com.microsoft.office.outlook", "com.apple.android.music"]
+    },
     {
       "title": "Entertainment",
       "packages": ["app.tfs.music", "app.tfs.prod", "com.brochos.jstream"]
