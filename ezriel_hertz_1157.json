@@ -1,0 +1,61 @@
+{
+  "categories": [
+    {
+      "title": "Entertainment",
+      "packages": [
+        "app.tfs.prod"
+      ]
+    },
+    {
+      "title": "Music & Audio",
+      "packages": [
+        "pro.vitalii.andropods"
+      ]
+    },
+    {
+      "title": "Books & Reference",
+      "packages": [
+        "org.ou.all.daf",
+        "org.ou.allmishna",
+        "org.ou.allparsha",
+        "org.sefaria.sefaria"
+      ]
+    },
+    {
+      "title": "Lifestyle",
+      "packages": [
+        "com.rocketouch.CRCKosher2013",
+        "org.ou.kosherproducts",
+        "com.gindin.zmanim.android"
+      ]
+    },
+    {
+      "title": "Maps & Navigation",
+      "packages": [
+        "me.lyft.android",
+        "com.tranzmate",
+        "com.mta.mobileapp",
+        "com.ubercab",
+        "com.waze"
+      ]
+    },
+    {
+      "title": "Travel & Local",
+      "packages": [
+        "net.sharewire.Nycdot"
+      ]
+    },
+    {
+      "title": "Food & Drink",
+      "packages": [
+        "com.ubercab.eats"
+      ]
+    },
+    {
+      "title": "Weather",
+      "packages": [
+        "com.accuweather.android"
+      ]
+    }
+  ]
+}
