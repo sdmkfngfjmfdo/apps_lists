@@ -1,0 +1,72 @@
+{
+  "categories": [
+    {
+      "title": "Entertainment",
+      "packages": ["app.tfs.music", "app.tfs.prod", "com.brochos.jstream"]
+    },
+    {
+      "title": "Tools",
+      "packages": [
+        "com.google.android.calculator",
+        "com.google.android.apps.translate",
+        "com.riteshsahu.SMSBackupRestore",
+        "com.google.android.apps.nbu.files",
+        "com.google.android.deskclock"
+      ]
+    },
+    {
+      "title": "Maps & Navigation",
+      "packages": [
+        "com.google.android.apps.maps",
+        "com.waze",
+        "com.ubercab"
+      ]
+    },
+    {
+      "title": "Productivity",
+      "packages": [
+        "com.google.android.apps.photos",
+        "it.levy.hc",
+        "com.lionscribe.hebdate"
+      ]
+    },
+    {
+      "title": "Communication",
+      "packages": ["com.google.android.apps.messaging", "com.google.android.contacts", "com.lionscribe.elist"]
+    },
+    {
+      "title": "Music & Audio",
+      "packages": [
+        "com.google.android.apps.recorder",
+        "in.krosbits.musicolet",
+        "pro.vitalii.andropods"
+      ]
+    },
+    {
+      "title": "Books & Reference",
+      "packages": [
+        "com.karriapps.smartsiddurlite",
+        "org.ou.all.daf",
+        "org.ou.allhalacha",
+        "org.ou.allparsha",
+        "org.ou.allmishna",
+        "org.sefaria.sefaria"
+      ]
+    },
+    {
+      "title": "Lifestyle",
+      "packages": [
+        "com.gindin.zmanim.android",
+        "global.hatzalah.app"
+      ]
+    },
+    {
+      "title": "Travel & Local",
+      "packages": [
+        "com.accuweather.android",
+        "net.sharewire.Nycdot",
+        "global.chaverim.app"
+      ]
+    }
+  ]
+}
