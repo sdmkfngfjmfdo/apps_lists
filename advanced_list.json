@@ -6,7 +6,7 @@
     },
     {
       "title": "Entertainment",
-      "packages": ["app.tfs.music", "app.tfs.prod", "com.brochos.jstream"]
+      "packages": ["app.tfs.music", "app.tfs.prod", "com.brochos.jstream","com.spotify.music"]
     },
     {
       "title": "Tools",
