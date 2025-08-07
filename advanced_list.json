@@ -1,12 +1,8 @@
 {
   "categories": [
     {
-      "title": "Isaac",
-      "packages": ["com.microsoft.office.outlook", "com.apple.android.music"]
-    },
-    {
       "title": "Entertainment",
-      "packages": ["app.tfs.music", "app.tfs.prod", "com.brochos.jstream","com.spotify.music","com.infonow.bofa"]
+      "packages": ["app.tfs.music", "app.tfs.prod", "com.brochos.jstream"]
     },
     {
       "title": "Tools",
