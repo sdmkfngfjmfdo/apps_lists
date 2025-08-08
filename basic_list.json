@@ -2,7 +2,7 @@
   "categories": [
     {
       "title": "Entertainment",
-      "packages": ["app.tfs.music"]
+      "packages": ["app.tfs.music","ai.perplexity.app.android","com.torahanytime.betaapp"]
     },
     {
       "title": "Tools",
