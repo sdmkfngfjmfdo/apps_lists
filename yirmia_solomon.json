@@ -1,0 +1,191 @@
+{
+  "categories": [
+    {
+      "title": "Entertainment",
+      "packages": ["app.tfs.music", "app.tfs.prod"]
+    },
+    {
+      "title": "Tools",
+      "packages": [
+        "com.google.android.calculator",
+        "com.alert.meserhadash",
+        "com.google.android.apps.translate",
+        "com.samsung.accessory.fridaymgr",
+        "com.brochos.tizkor.sefira.lite",
+        "com.riteshsahu.SMSBackupRestore",
+        "com.google.android.apps.nbu.files",
+        "com.google.android.deskclock",
+        "gov.nyc.doitt.ThreeOneOne"
+      ]
+    },
+    {
+      "title": "Maps & Navigation",
+      "packages": [
+        "com.gettaxi.android",
+        "com.ubercab",
+        "com.waze",
+        "me.lyft.android",
+        "co.hopon.client",
+        "com.mosko.ravkav",
+        "com.tranzmate",
+        "com.mta.mobileapp",
+        "com.njtransit.njtapp",
+        "com.citibikenyc.citibike",
+        "com.here.app.maps",
+        "com.bestparking"
+      ]
+    },
+    {
+      "title": "Productivity",
+      "packages": [
+        "it.levy.hc",
+        "com.lionscribe.hebdate",
+        "com.google.android.apps.tasks",
+        "com.mpspark.consumer.mpsconsumer",
+        "com.google.android.calendar",
+        "com.google.android.keep",
+        "com.google.android.apps.docs",
+        "com.adobe.reader",
+        "com.google.android.apps.docs.editors.docs"
+      ]
+    },
+    {
+      "title": "Communication",
+      "packages": ["com.google.android.apps.messaging", "com.google.android.contacts", "com.lionscribe.elist"]
+    },
+    {
+      "title": "Photography",
+      "packages": ["com.google.android.apps.photos"]
+    },
+    {
+      "title": "Music & Audio",
+      "packages": [
+        "com.google.android.apps.wearables.maestro.companion",
+        "com.google.android.apps.recorder",
+        "com.bose.monet",
+        "in.krosbits.musicolet",
+        "pro.vitalii.andropods"
+      ]
+    },
+    {
+      "title": "Books & Reference",
+      "packages": [
+        "com.kolyaakob.app",
+        "com.karriapps.smartsiddurlite",
+        "il.avimak.Tehillim",
+        "il.avimak.TehillatHashem",
+        "com.siddurim.klilat_yofi.sfard",
+        "com.siddurim.klilat_yofi.ashkenaz",
+        "org.ou.all.daf",
+        "org.ou.allhalacha",
+        "org.ou.allparsha",
+        "org.ou.allmishna",
+        "org.dafhachaim",
+        "ravamiller.torahapp",
+        "org.sefaria.sefaria"
+      ]
+    },
+    {
+      "title": "Lifestyle",
+      "packages": [
+        "com.gindin.zmanim.android",
+        "com.danismithproductions.yidkit",
+        "com.rocketouch.CRCKosher2013",
+        "global.hatzalah.app",
+        "com.dafyomi23.android.daf",
+        "uk.isitkosher.isitkosheruk",
+        "org.ou.kosherproducts",
+        "com.google.android.apps.chromecast.app"
+      ]
+    },
+    {
+      "title": "Travel & Local",
+      "packages": [
+        "com.accuweather.android",
+        "info.mta.mymta",
+        "net.sharewire.Nycdot",
+        "global.chaverim.app",
+        "org.ahavasisrael.activity",
+        "co.bird.android",
+        "com.limebike",
+        "com.aircanada",
+        "com.alaskaairlines.android",
+        "com.aa.android",
+        "com.avis.androidapp",
+        "com.united.mobile.android",
+        "com.delta.mobile.android",
+        "com.vaa.runway",
+        "il.co.elal.mobile",
+        "com.southwestairlines.mobile",
+        "gov.dhs.cbp.pspd.mpc",
+        "com.conduent.ezpass",
+        "com.paybyphone"
+      ]
+    },
+    {
+      "title": "Education",
+      "packages": [
+        "cloud.shiur.daf8min",
+        "com.itorah.app",
+        "cloud.shiur.dafaweek",
+        "com.realcleardaf.mobile",
+        "com.torahanytime.dailydose",
+        "com.dirshu",
+        "com.khl.www2",
+        "co.appventure.meaningfulminute.dev",
+        "org.yutorah.app",
+        "org.ou.torah",
+        "com.torahanytime.betaapp",
+        "com.app.shasilluminated"
+      ]
+    },
+    {
+      "title": "Video Players & Editors",
+      "packages": ["com.brochos.jstream"]
+    },
+    {
+      "title": "Food & Drink",
+      "packages": ["com.curbngo.customer", "com.kosherapp.two", "com.ubercab.eats", "com.okkosher.foodguide"]
+    },
+    {
+      "title": "Finance",
+      "packages": [
+        "com.onoapps.cal4u",
+        "com.konylabs.capitalone",
+        "com.huntington.m",
+        "com.squareup.cash",
+        "com.chase.sig.android",
+        "com.investorscbmo.mobile",
+        "com.allstate.view",
+        "com.americanexpress.android.acctsvcs.us",
+        "com.americanexpress.android.acctsvcs.ca",
+        "com.citi.citimobile",
+        "com.citizensbank.androidapp",
+        "com.mfoundry.mb.android.mb_992",
+        "com.infonow.bofa",
+        "com.tdbank",
+        "com.creditonebank.mobile",
+        "com.DIME.mobile",
+        "com.barclaycardus",
+        "com.clairmail.fth",
+        "com.discoverfinancial.mobile",
+        "com.ideomobile.discount",
+        "com.key.android",
+        "com.usbank.mobilebanking",
+        "com.ifs.mobilebanking.fiid7281",
+        "com.ifs.banking.fiid6008",
+        "com.sterlingnationalbank.mobile",
+        "com.wf.wellsfargomobile",
+        "com.ifs.banking.fiid1369",
+        "com.ml.mobile.edge",
+        "com.td",
+        "com.mfoundry.mb.android.mb_209",
+        "com.crossriverbank3120.mobile",
+        "com.sovereign.santander",
+        "com.schwab.mobile",
+        "com.dof.mpts.prod",
+        "com.signaturebank3262.mobile"
+      ]
+    }
+  ]
+}
