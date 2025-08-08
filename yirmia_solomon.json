@@ -38,6 +38,7 @@
     {
       "title": "Productivity",
       "packages": [
+        "ai.perplexity.app.android",
         "it.levy.hc",
         "com.lionscribe.hebdate",
         "com.google.android.apps.tasks",
@@ -51,7 +52,7 @@
     },
     {
       "title": "Communication",
-      "packages": ["com.google.android.apps.messaging", "com.google.android.contacts", "com.lionscribe.elist"]
+      "packages": ["com.google.android.apps.messaging", "com.google.android.contacts", "com.lionscribe.elist", "com.google.android.apps.tachyon"]
     },
     {
       "title": "Photography",
