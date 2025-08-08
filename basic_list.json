@@ -1,10 +1,6 @@
 {
   "categories": [
     {
-      "title": "Entertainment",
-      "packages": ["app.tfs.music","ai.perplexity.app.android","app.tfs.prod","com.torahanytime.betaapp"]
-    },
-    {
       "title": "Tools",
       "packages": [
         "com.google.android.calculator",
@@ -51,6 +47,7 @@
     {
       "title": "Music & Audio",
       "packages": [
+        ""app.tfs.music",
         "com.google.android.apps.wearables.maestro.companion",
         "com.google.android.apps.recorder",
         "com.bose.monet",
