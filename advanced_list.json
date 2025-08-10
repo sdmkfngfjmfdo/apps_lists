@@ -2,7 +2,7 @@
   "categories": [
     {
       "title": "Entertainment",
-      "packages": ["app.tfs.music", "app.tfs.prod", "com.brochos.jstream"]
+      "packages": ["com.amazon.mp3","app.tfs.music", "app.tfs.prod", "com.brochos.jstream"]
     },
     {
       "title": "Tools",
