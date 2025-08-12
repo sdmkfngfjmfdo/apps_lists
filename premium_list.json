@@ -95,7 +95,8 @@
         "com.dafyomi23.android.daf",
         "uk.isitkosher.isitkosheruk",
         "org.ou.kosherproducts",
-        "com.google.android.apps.chromecast.app"
+        "com.google.android.apps.chromecast.app",
+        "com.life360.android.safetymapd"
       ]
     },
     {
