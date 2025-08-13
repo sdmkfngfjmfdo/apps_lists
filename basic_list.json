@@ -47,7 +47,7 @@
     {
       "title": "Music & Audio",
       "packages": [
-        ""app.tfs.music",
+        "app.tfs.music",
         "com.google.android.apps.wearables.maestro.companion",
         "com.google.android.apps.recorder",
         "com.bose.monet",
