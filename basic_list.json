@@ -31,6 +31,8 @@
     {
       "title": "Productivity",
       "packages": [
+        "com.microsoft.office.outlook",
+        "com.microsoft.teams",
         "com.google.android.apps.photos",
         "it.levy.hc",
         "com.lionscribe.hebdate",
