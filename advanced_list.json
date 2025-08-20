@@ -2,7 +2,14 @@
   "categories": [
     {
       "title": "Entertainment",
-      "packages": ["app.tfs.music", "app.tfs.prod", "com.brochos.jstream"]
+      "packages": [
+        "app.tfs.music",
+        "app.tfs.prod",
+        "com.brochos.jstream",
+        "com.robinhood.android",
+        "com.robinhood.money",
+        "com.companyname.SchedulePointeGo"
+      ]
     },
     {
       "title": "Tools",
