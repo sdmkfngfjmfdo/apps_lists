@@ -106,6 +106,7 @@
       "packages": [
         "com.accuweather.android",
         "info.mta.mymta",
+        "com.companyname.SchedulePointeGo",
         "net.sharewire.Nycdot",
         "global.chaverim.app",
         "org.ahavasisrael.activity",
@@ -154,6 +155,8 @@
       "title": "Finance",
       "packages": [
         "com.onoapps.cal4u",
+        "com.robinhood.android",
+        "com.robinhood.money",
         "com.konylabs.capitalone",
         "com.huntington.m",
         "com.squareup.cash",
