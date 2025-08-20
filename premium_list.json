@@ -84,7 +84,8 @@
         "org.ou.allmishna",
         "org.dafhachaim",
         "ravamiller.torahapp",
-        "org.sefaria.sefaria"
+        "org.sefaria.sefaria",
+        "com.lakewooddafyomi.app"
       ]
     },
     {
@@ -123,7 +124,9 @@
         "com.southwestairlines.mobile",
         "gov.dhs.cbp.pspd.mpc",
         "com.conduent.ezpass",
-        "com.paybyphone"
+        "com.paybyphone",
+        "com.driivz.mobile.android.evgo.driver",
+        "com.acura.acuraev.acuraevapp"
       ]
     },
     {
