@@ -3,8 +3,6 @@
     {
       "title": "Tools",
       "packages": [
-        "com.dexcom.follow",
-        "com.google.android.apps.dynamite",
         "com.google.android.calculator",
         "com.alert.meserhadash",
         "com.google.android.apps.translate",
