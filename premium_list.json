@@ -7,10 +7,6 @@
     {
       "title": "Tools",
       "packages": [
-        "com.kfmdmsolutions.ivelt",
-        "com.microsoft.skydrive",
-        "com.google.android.apps.googlevoice",
-        "com.whatsapp",
         "com.google.android.calculator",
         "com.alert.meserhadash",
         "com.google.android.apps.translate",
