@@ -7,6 +7,8 @@
     {
       "title": "Tools",
       "packages": [
+        "com.amazon.mShop.android.shopping",
+        "com.block.juggle",
         "com.google.android.calculator",
         "com.alert.meserhadash",
         "com.google.android.apps.translate",
