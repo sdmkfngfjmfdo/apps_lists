@@ -7,6 +7,10 @@
     {
       "title": "Tools",
       "packages": [
+        "com.google.android.gm",
+        "com.google.android.apps.docs",
+        "org.videolan.vlc",
+        "com.google.android.apps.googlevoice",
         "com.google.android.calculator",
         "com.google.android.apps.translate",
         "com.riteshsahu.SMSBackupRestore",
