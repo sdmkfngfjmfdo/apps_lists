@@ -7,7 +7,6 @@
     {
       "title": "Tools",
       "packages": [
-        "com.anthropic.claude",
         "com.google.android.calculator",
         "com.alert.meserhadash",
         "com.google.android.apps.translate",
