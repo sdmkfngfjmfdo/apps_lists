@@ -7,8 +7,7 @@
     {
       "title": "Tools",
       "packages": [
-        "com.amazon.mShop.android.shopping",
-        "com.block.juggle",
+        "com.anthropic.claude",
         "com.google.android.calculator",
         "com.alert.meserhadash",
         "com.google.android.apps.translate",
@@ -161,6 +160,7 @@
     {
       "title": "Finance",
       "packages": [
+        "com.ifs.banking.fiid4808",
         "com.onoapps.cal4u",
         "com.robinhood.android",
         "com.robinhood.money",
