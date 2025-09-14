@@ -1,6 +1,10 @@
 {
   "categories": [
     {
+      "title": "guttman",
+      "packages": ["com.espn.score_center","com.espn.fantasy.lm.football","lunosoftware.sportsalerts","me.greenlight","com.dandodev.TfilaFinder","org.airabbi","com.stubhub","homeworkout.homeworkouts.noequipment","com.wonderpeople.megahitpoker.global","us.zoom.videomeetings","com.the.yeshiva.world.news","com.studyevolution.android.anemo"]
+    },
+    {
       "title": "Entertainment",
       "packages": [
         "app.tfs.music",
