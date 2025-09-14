@@ -2,7 +2,7 @@
   "categories": [
     {
       "title": "Entertainment",
-      "packages": ["com.espn.score_center", "app.tfs.music", "app.tfs.prod"]
+      "packages": ["app.tfs.music", "app.tfs.prod"]
     },
     {
       "title": "Tools",
