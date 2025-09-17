@@ -15,7 +15,8 @@
         "com.riteshsahu.SMSBackupRestore",
         "com.google.android.apps.nbu.files",
         "com.google.android.deskclock",
-        "gov.nyc.doitt.ThreeOneOne"
+        "gov.nyc.doitt.ThreeOneOne",
+        "com.riteshsahu.SMSBackupRestore"
       ]
     },
     {
@@ -54,7 +55,7 @@
     },
     {
       "title": "Communication",
-      "packages": ["com.google.android.gm", "com.google.android.apps.messaging", "com.google.android.contacts", "com.lionscribe.elist"]
+      "packages": ["com.google.android.apps.googlevoice", "com.google.android.gm", "com.google.android.apps.messaging", "com.google.android.contacts", "com.lionscribe.elist"]
     },
     {
       "title": "Photography",
