@@ -125,7 +125,6 @@
         "il.co.elal.mobile",
         "com.southwestairlines.mobile",
         "gov.dhs.cbp.pspd.mpc",
-        "com.conduent.ezpass",
         "com.paybyphone",
         "com.driivz.mobile.android.evgo.driver",
         "com.acura.acuraev.acuraevapp",
@@ -160,6 +159,7 @@
     {
       "title": "Finance",
       "packages": [
+        "com.fidelity.android",
         "com.ifs.banking.fiid4808",
         "com.onoapps.cal4u",
         "com.robinhood.android",
