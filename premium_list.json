@@ -94,6 +94,7 @@
       "title": "Lifestyle",
       "packages": [
         "com.gindin.zmanim.android",
+        "com.phonevalley.progressive",
         "com.danismithproductions.yidkit",
         "com.rocketouch.CRCKosher2013",
         "global.hatzalah.app",
@@ -160,6 +161,7 @@
       "title": "Finance",
       "packages": [
         "com.fidelity.android",
+        "com.experian.android",
         "com.ifs.banking.fiid4808",
         "com.onoapps.cal4u",
         "com.robinhood.android",
