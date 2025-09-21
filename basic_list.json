@@ -68,7 +68,7 @@
     },
     {
       "title": "Lifestyle",
-      "packages": ["com.ubercab.eats", "com.infonow.bofa", "com.gindin.zmanim.android", "com.danismithproductions.yidkit", "com.rocketouch.CRCKosher2013", "global.hatzalah.app"]
+      "packages": ["com.gindin.zmanim.android", "com.danismithproductions.yidkit", "com.rocketouch.CRCKosher2013", "global.hatzalah.app"]
     },
     {
       "title": "Travel & Local",
