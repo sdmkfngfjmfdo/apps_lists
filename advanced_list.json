@@ -1,6 +1,14 @@
 {
   "categories": [
     {
+      "title:" "Custom",
+      "packages": [
+        "com.amazon.mShop.android.shopping",
+        "com.instacart.client",
+        "com.target.ui",
+      ]
+    },
+    {
       "title": "Entertainment",
       "packages": [
         "app.tfs.music",
