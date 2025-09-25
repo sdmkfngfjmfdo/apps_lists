@@ -41,8 +41,6 @@
     {
       "title": "Productivity",
       "packages": [
-        "com.microsoft.office.outlook",
-        "com.microsoft.teams",
         "it.levy.hc",
         "com.lionscribe.hebdate",
         "com.google.android.apps.tasks",
