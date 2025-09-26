@@ -2,7 +2,15 @@
   "categories": [
     {
       "title": "Entertainment",
-      "packages": ["app.tfs.music", "app.tfs.prod", "com.stubhub","com.espn.fantasy.lm.football","com.bamnetworks.mobile.android.gameday.atbat","com.amelosinteractive.snake"]
+      "packages": [
+        "app.tfs.music", 
+        "app.tfs.prod", 
+        "com.stubhub",
+        "com.espn.fantasy.lm.football",
+        "com.bamnetworks.mobile.android.gameday.atbat",
+        "com.amelosinteractive.snake",
+        "com.suno.android",
+      ]
     },
     {
       "title": "Tools",
@@ -35,7 +43,8 @@
         "com.njtransit.njtapp",
         "com.citibikenyc.citibike",
         "com.here.app.maps",
-        "com.bestparking"
+        "com.bestparking",
+        "com.waymo.carapp"
       ]
     },
     {
