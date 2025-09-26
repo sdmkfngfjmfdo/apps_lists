@@ -2,13 +2,14 @@
   "categories": [
     {
       "title": "Entertainment",
-      "packages": ["app.tfs.music", "app.tfs.prod"]
+      "packages": ["app.tfs.music", "app.tfs.prod", "com.stubhub","com.espn.fantasy.lm.football","com.bamnetworks.mobile.android.gameday.atbat","com.amelosinteractive.snake"]
     },
     {
       "title": "Tools",
       "packages": [
         "com.google.android.calculator",
         "com.alert.meserhadash",
+        "org.airabbi",
         "com.google.android.apps.translate",
         "com.samsung.accessory.fridaymgr",
         "com.brochos.tizkor.sefira.lite",
@@ -23,8 +24,9 @@
       "packages": [
         "com.gettaxi.android",
         "com.ubercab",
+        "com.neemapp.findminyan",
         "com.waze",
-        "com.jetblue.JetBlueAndroid",
+        "com.google.android.apps.maps",
         "me.lyft.android",
         "co.hopon.client",
         "com.mosko.ravkav",
@@ -127,6 +129,7 @@
     {
       "title": "Education",
       "packages": [
+        "com.duolingo",
         "cloud.shiur.daf8min",
         "com.itorah.app",
         "cloud.shiur.dafaweek",
@@ -147,12 +150,13 @@
     },
     {
       "title": "Food & Drink",
-      "packages": ["com.curbngo.customer", "com.kosherapp.two", "com.ubercab.eats", "com.okkosher.foodguide"]
+      "packages": ["com.curbngo.customer", "com.kosherapp.two", "com.ubercab.eats", "com.okkosher.foodguide", "com.dunkinbrands.otgo"]
     },
     {
       "title": "Finance",
       "packages": [
         "com.onoapps.cal4u",
+        "com.robinhood.android",
         "com.konylabs.capitalone",
         "com.huntington.m",
         "com.squareup.cash",
