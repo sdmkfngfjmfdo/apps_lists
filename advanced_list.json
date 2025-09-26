@@ -1,11 +1,13 @@
 {
   "categories": [
     {
-      "title:" "Custom",
+      "title": "Entertainment",
       "packages": [
-        "com.amazon.mShop.android.shopping",
-        "com.instacart.client",
-        "com.target.ui",
+        "app.tfs.music",
+        "app.tfs.prod",
+        "com.brochos.jstream",
+        "com.chase.sig.android",
+        "com.duolingo"
       ]
     },
     {
@@ -43,7 +45,6 @@
         "com.mosko.ravkav",
         "com.tranzmate",
         "com.mta.mobileapp",
-        "com.njtransit.njtapp",
         "com.citibikenyc.citibike",
         "com.here.app.maps",
         "com.bestparking"
