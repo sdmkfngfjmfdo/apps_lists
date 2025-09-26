@@ -2,7 +2,7 @@
   "categories": [
     {
       "title": "Entertainment",
-      "packages": ["app.tfs.music", "app.tfs.prod"]
+      "packages": ["app.tfs.music", "app.tfs.prod", "fm.jewishmusic.application", "com.google.android.apps.tachyon", "com.amazon.mp3"]
     },
     {
       "title": "Tools",
