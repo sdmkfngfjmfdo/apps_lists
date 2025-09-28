@@ -1,0 +1,90 @@
+{
+  "categories": [
+    {
+      "title": "Tools",
+      "packages": [
+        "com.google.android.calculator",
+        "com.alert.meserhadash",
+        "com.google.android.apps.translate",
+        "com.samsung.accessory.fridaymgr",
+        "com.brochos.tizkor.sefira.lite",
+        "com.riteshsahu.SMSBackupRestore",
+        "com.google.android.apps.nbu.files",
+        "com.google.android.deskclock"
+      ]
+    },
+    {
+      "title": "Maps & Navigation",
+      "packages": [
+        "com.google.android.apps.maps",
+        "com.gettaxi.android",
+        "com.ubercab",
+        "com.waze",
+        "me.lyft.android",
+        "co.hopon.client",
+        "com.mosko.ravkav",
+        "com.tranzmate",
+        "com.mta.mobileapp",
+        "com.njtransit.njtapp",
+        "com.citibikenyc.citibike"
+      ]
+    },
+    {
+      "title": "Productivity",
+      "packages": [
+        "com.google.android.apps.photos",
+        "it.levy.hc",
+        "com.lionscribe.hebdate",
+        "com.google.android.apps.tasks",
+        "com.mpspark.consumer.mpsconsumer",
+        "com.google.android.calendar",
+        "com.google.android.keep"
+      ]
+    },
+    {
+      "title": "Communication",
+      "packages": ["com.google.android.gm", "com.google.android.apps.messaging", "com.google.android.contacts", "com.lionscribe.elist"]
+    },
+    {
+      "title": "Music & Audio",
+      "packages": [
+        "app.tfs.music",
+        "com.google.android.apps.wearables.maestro.companion",
+        "com.google.android.apps.recorder",
+        "com.bose.monet",
+        "in.krosbits.musicolet",
+        "pro.vitalii.andropods"
+      ]
+    },
+    {
+      "title": "Books & Reference",
+      "packages": [
+        "com.kolyaakob.app",
+        "com.karriapps.smartsiddurlite",
+        "il.avimak.Tehillim",
+        "il.avimak.TehillatHashem",
+        "com.siddurim.klilat_yofi.sfard",
+        "com.siddurim.klilat_yofi.ashkenaz",
+        "org.ou.all.daf",
+        "org.ou.allhalacha",
+        "org.ou.allparsha",
+        "org.ou.allmishna",
+        "org.sefaria.sefaria",
+        "com.lakewooddafyomi.app",
+        "tfilon.tfilon",
+        ""cloud.shiur.daf8min",
+        "com.dirshu",
+        "com.khl.kiosk",
+        "com.app.shasilluminated"
+      ]
+    },
+    {
+      "title": "Lifestyle",
+      "packages": ["com.gindin.zmanim.android", "com.danismithproductions.yidkit", "com.rocketouch.CRCKosher2013", "global.hatzalah.app"]
+    },
+    {
+      "title": "Travel & Local",
+      "packages": ["com.accuweather.android", "info.mta.mymta", "net.sharewire.Nycdot", "global.chaverim.app"]
+    }
+  ]
+}
