@@ -5,19 +5,7 @@
       "packages": [
         "app.tfs.music",
         "app.tfs.prod",
-        "com.brochos.jstream",
-        "com.chase.sig.android",
-        "com.duolingo"
-      ]
-    },
-    {
-      "title": "Entertainment",
-      "packages": [
-        "app.tfs.music",
-        "app.tfs.prod",
-        "com.brochos.jstream",
-        "com.chase.sig.android",
-        "com.duolingo"
+        "com.brochos.jstream"
       ]
     },
     {
