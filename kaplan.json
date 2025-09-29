@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "title": "Entertainment",
+      "packages": [
+        "app.tfs.music",
+        "app.tfs.prod"
+      ]
+    },
+    {
+      "title": "Tools",
+      "packages": [
+        "com.google.android.calculator",,
+        "com.google.android.apps.translate",
+        "com.riteshsahu.SMSBackupRestore",
+        "com.google.android.apps.nbu.files",
+        "com.google.android.deskclock"
+      ]
+    },
+    {
+      "title": "Maps & Navigation",
+      "packages": [
+        "com.waze",
+        "com.ubercab"
+      ]
+    },
+    {
+      "title": "Productivity",
+      "packages": [
+        "com.google.android.apps.photos",
+        "com.google.android.apps.tasks",
+        "com.google.android.calendar",
+        "com.google.android.keep"
+      ]
+    },
+    {
+      "title": "Communication",
+      "packages": ["com.google.android.apps.messaging", "com.google.android.contacts", "com.lionscribe.elist"]
+    },
+    {
+      "title": "Music & Audio",
+      "packages": [
+        "com.google.android.apps.recorder",
+        "in.krosbits.musicolet"
+      ]
+    },
+    {
+      "title": "Lifestyle",
+      "packages": [
+        "com.karriapps.smartsiddurlite",
+        "org.ou.all.daf",
+        "org.sefaria.sefaria",
+        "com.gindin.zmanim.android",
+        "com.ubercab.eats"
+      ]
+    }
+  ]
+}
