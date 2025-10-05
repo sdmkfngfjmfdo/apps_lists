@@ -17,7 +17,9 @@
         "com.google.android.apps.nbu.files",
         "com.google.android.deskclock",
         "gov.nyc.doitt.ThreeOneOne",
-        "com.riteshsahu.SMSBackupRestore"
+        "com.riteshsahu.SMSBackupRestore",
+        "com.teslacoilsw.launcher",
+        "org.videolan.vlc"
       ]
     },
     {
