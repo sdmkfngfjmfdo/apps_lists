@@ -2,7 +2,7 @@
   "categories": [
     {
       "title": "Entertainment",
-      "packages": ["com.whatsapp", "com.spotify.music", "com.strava", "com.dhl.exp.dhlmobile", "app.tfs.music", "app.tfs.prod", "fm.jewishmusic.application", "com.google.android.apps.tachyon"]
+      "packages": ["com.paypal.android.p2pmobile", "ginlemon.flowerfree", "com.google.android.apps.docs.editors.sheets", "com.kiloo.subwaysurf", "com.whatsapp", "com.spotify.music", "com.strava", "com.dhl.exp.dhlmobile", "app.tfs.music", "app.tfs.prod", "fm.jewishmusic.application", "com.google.android.apps.tachyon"]
     },
     {
       "title": "Tools",
