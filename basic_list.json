@@ -59,7 +59,7 @@
       "title": "Books & Reference",
       "packages": [
         "com.kolyaakob.app",
-        "com.karriapps.smartsiddurlite",
+        "tfilon.tfilon",
         "il.avimak.Tehillim",
         "il.avimak.TehillatHashem",
         "com.siddurim.klilat_yofi.sfard",
