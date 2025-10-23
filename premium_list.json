@@ -59,7 +59,8 @@
         "com.google.android.gm",
         "com.google.android.apps.messaging", 
         "com.google.android.contacts", 
-        "com.lionscribe.elist"
+        "com.lionscribe.elist",
+        "com.microsoft.office.outlook"
       ]
     },
     {
