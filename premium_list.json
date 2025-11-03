@@ -2,7 +2,7 @@
   "categories": [
     {
       "title": "Entertainment",
-      "packages": ["app.tfs.music", "app.tfs.prod", "fm.jewishmusic.application"]
+      "packages": ["com.microsoft.office.officehubrow", "app.tfs.music", "app.tfs.prod", "fm.jewishmusic.application"]
     },
     {
       "title": "Tools",
