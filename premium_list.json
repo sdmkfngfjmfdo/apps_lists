@@ -2,7 +2,7 @@
   "categories": [
     {
       "title": "Entertainment",
-      "packages": ["com.anydesk.anydeskandroid", "com.termux", "app.tfs.music", "app.tfs.prod", "fm.jewishmusic.application"]
+      "packages": ["com.anydesk.adcontrol.ad1", "app.tfs.music", "app.tfs.prod", "fm.jewishmusic.application"]
     },
     {
       "title": "Tools",
