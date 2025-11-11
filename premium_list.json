@@ -2,7 +2,7 @@
   "categories": [
     {
       "title": "Entertainment",
-      "packages": ["com.espn.score_center", "com.yahoo.mobile.client.android.sportacular", "app.tfs.music", "app.tfs.prod", "fm.jewishmusic.application"]
+      "packages": ["app.tfs.music", "app.tfs.prod", "fm.jewishmusic.application"]
     },
     {
       "title": "Tools",
