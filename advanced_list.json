@@ -2,7 +2,7 @@
   "categories": [
     {
       "title": "Entertainment",
-      "packages": ["com.espn.score_center", "com.yahoo.mobile.client.android.sportacular", "app.tfs.music", "app.tfs.prod", "com.brochos.jstream"]
+      "packages": ["app.tfs.music", "app.tfs.prod", "com.brochos.jstream"]
     },
     {
       "title": "Tools",
@@ -64,6 +64,8 @@
     {
       "title": "Books & Reference",
       "packages": [
+        "tfilon.tfilon",
+        "com.lakewooddafyomi.app",
         "com.kolyaakob.app",
         "com.karriapps.smartsiddurlite",
         "il.avimak.Tehillim",
