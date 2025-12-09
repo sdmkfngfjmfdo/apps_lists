@@ -1,131 +1,138 @@
 {
   "categories": [
     {
-      "title": "Entertainment",
-      "packages": ["app.tfs.music", "app.tfs.prod", "com.brochos.jstream"]
-    },
-    {
-      "title": "Tools",
-      "packages": [
-        "com.google.android.calculator",
-        "com.alert.meserhadash",
-        "com.google.android.apps.translate",
-        "com.samsung.accessory.fridaymgr",
-        "com.brochos.tizkor.sefira.lite",
-        "com.riteshsahu.SMSBackupRestore",
-        "com.google.android.apps.nbu.files",
-        "com.google.android.deskclock"
-      ]
-    },
-    {
-      "title": "Maps & Navigation",
-      "packages": [
-        "com.google.android.apps.maps",
-        "com.waze",
-        "com.ubercab",
-        "com.gettaxi.android",
-        "me.lyft.android",
-        "co.hopon.client",
-        "com.mosko.ravkav",
-        "com.tranzmate",
-        "com.mta.mobileapp",
-        "com.citibikenyc.citibike",
-        "com.here.app.maps",
-        "com.bestparking"
-      ]
-    },
-    {
-      "title": "Productivity",
-      "packages": [
-        "com.google.android.apps.photos",
-        "it.levy.hc",
-        "com.lionscribe.hebdate",
-        "com.google.android.apps.tasks",
-        "com.mpspark.consumer.mpsconsumer",
-        "com.google.android.calendar",
-        "com.google.android.keep",
-        "com.google.android.apps.docs"
-      ]
-    },
-    {
-      "title": "Communication",
-      "packages": ["com.google.android.apps.messaging", "com.google.android.contacts", "com.lionscribe.elist"]
-    },
-    {
-      "title": "Music & Audio",
-      "packages": [
-        "com.google.android.apps.wearables.maestro.companion",
-        "com.google.android.apps.recorder",
-        "com.bose.monet",
-        "in.krosbits.musicolet",
-        "pro.vitalii.andropods"
-      ]
-    },
-    {
       "title": "Books & Reference",
       "packages": [
-        "tfilon.tfilon",
-        "com.lakewooddafyomi.app",
-        "com.kolyaakob.app",
-        "com.karriapps.smartsiddurlite",
-        "il.avimak.Tehillim",
-        "il.avimak.TehillatHashem",
-        "com.siddurim.klilat_yofi.sfard",
-        "com.siddurim.klilat_yofi.ashkenaz",
         "org.ou.all.daf",
-        "org.ou.allhalacha",
-        "org.ou.allparsha",
         "org.ou.allmishna",
-        "org.dafhachaim",
-        "ravamiller.torahapp",
-        "org.sefaria.sefaria"
-      ]
-    },
-    {
-      "title": "Lifestyle",
-      "packages": [
-        "com.gindin.zmanim.android",
-        "com.danismithproductions.yidkit",
-        "com.rocketouch.CRCKosher2013",
-        "global.hatzalah.app",
-        "com.dafyomi23.android.daf",
-        "uk.isitkosher.isitkosheruk",
-        "org.ou.kosherproducts"
-      ]
-    },
-    {
-      "title": "Travel & Local",
-      "packages": [
-        "com.accuweather.android",
-        "info.mta.mymta",
-        "net.sharewire.Nycdot",
-        "global.chaverim.app",
-        "org.ahavasisrael.activity",
-        "co.bird.android",
-        "com.limebike",
-        "com.paybyphone"
+        "org.ou.allparsha",
+        "org.ou.allhalacha",
+        "org.sefaria.sefaria",
+        "tfilon.tfilon"
       ]
     },
     {
       "title": "Education",
       "packages": [
-        "cloud.shiur.daf8min",
-        "com.itorah.app",
-        "cloud.shiur.dafaweek",
+        "com.lakewooddafyomi.app",
         "com.realcleardaf.mobile",
         "com.torahanytime.dailydose",
-        "com.dirshu",
-        "com.khl.www2",
-        "co.appventure.meaningfulminute.dev",
-        "org.yutorah.app",
         "org.ou.torah",
-        "com.torahanytime.betaapp",
-        "com.app.shasilluminated"
+        "com.torahanytime.betaapp"
+      ]
+    },
+    {
+      "title": "Tools",
+      "packages": [
+        "com.google.android.dialer",
+        "com.samsung.accessory.fridaymgr",
+        "com.google.android.apps.recorder",
+        "com.google.android.deskclock",
+        "com.google.android.calculator",
+        "com.google.android.apps.nbu.files",
+        "com.alert.meserhadash",
+        "com.google.android.apps.translate",
+        "com.google.android.apps.adm",
+        "com.argonremote.proximitysensor"
+      ]
+    },
+    {
+      "title": "Communication",
+      "packages": [
+        "com.google.android.apps.messaging",
+        "com.google.android.contacts",
+        "com.lionscribe.elist"
+      ]
+    },
+    {
+      "title": "Maps & Navigation",
+      "packages": [
+        "com.ubercab",
+        "com.citibikenyc.citibike",
+        "com.waze",
+        "me.lyft.android",
+        "com.here.app.maps",
+        "com.tranzmate",
+        "com.mta.mobileapp",
+        "com.pcentra.ravkavonlinemobile",
+        "com.gettaxi.android"
       ]
     },
     {
       "title": "Food & Drink",
-      "packages": ["com.curbngo.customer", "com.kosherapp.two", "com.ubercab.eats", "com.okkosher.foodguide"]
+      "packages": [
+        "com.ubercab.eats",
+        "com.curbngo.customer",
+        "com.kosherapp.two",
+        "com.okkosher.foodguide"
+      ]
+    },
+    {
+      "title": "Entertainment",
+      "packages": [
+        "app.tfs.prod",
+        "app.tfs.music"
+      ]
+    },
+    {
+      "title": "Music & Audio",
+      "packages": [
+        "in.krosbits.musicolet",
+        "com.bose.monet",
+        "pro.vitalii.andropods"
+      ]
+    },
+    {
+      "title": "Video Players & Editors",
+      "packages": [
+        "com.brochos.jstream"
+      ]
+    },
+    {
+      "title": "Lifestyle",
+      "packages": [
+        "com.rocketouch.CRCKosher2013",
+        "global.hatzalah.app",
+        "com.danismithproductions.yidkit"
+      ]
+    },
+    {
+      "title": "Travel & Local",
+      "packages": [
+        "com.google.android.apps.maps",
+        "com.google.android.apps.mapslite",
+        "net.sharewire.Nycdot"
+      ]
+    },
+    {
+      "title": "Productivity",
+      "packages": [
+        "com.mpspark.consumer.mpsconsumer",
+        "com.google.android.calendar",
+        "com.google.android.apps.docs",
+        "com.google.android.keep",
+        "com.google.android.apps.tasks",
+        "com.google.android.apps.subscriptions.red",
+        "com.lionscribe.hebdate"
+      ]
+    },
+    {
+      "title": "Photography",
+      "packages": [
+        "com.google.android.apps.photos"
+      ]
+    },
+    {
+      "title": "Auto & Vehicles",
+      "packages": [
+        "com.paybyphone"
+      ]
+    },
+    {
+      "title": "Weather",
+      "packages": [
+        "com.accuweather.android"
+      ]
     }
   ]
 }
