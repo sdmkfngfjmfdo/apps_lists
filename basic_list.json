@@ -16,7 +16,6 @@
     {
       "title": "Maps & Navigation",
       "packages": [
-        "com.google.android.apps.maps",
         "com.gettaxi.android",
         "com.ubercab",
         "com.waze",
