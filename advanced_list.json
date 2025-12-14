@@ -33,7 +33,8 @@
         "com.alert.meserhadash",
         "com.google.android.apps.translate",
         "com.google.android.apps.adm",
-        "com.argonremote.proximitysensor"
+        "com.argonremote.proximitysensor",
+        "com.ringapp"
       ]
     },
     {
