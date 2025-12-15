@@ -1,6 +1,13 @@
 {
   "categories": [
     {
+      "title": "A Custom",
+      "packages": [
+        "com.vailresorts.epicmix",
+        "lunosoftware.sportsalerts"
+      ]
+    },
+    {
       "title": "Books & Reference",
       "packages": [
         "org.ou.all.daf",
