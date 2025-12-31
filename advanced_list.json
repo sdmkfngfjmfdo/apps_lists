@@ -34,7 +34,6 @@
         "com.google.android.apps.translate",
         "com.google.android.apps.adm",
         "com.argonremote.proximitysensor",
-        "com.ringapp"
       ]
     },
     {
@@ -92,7 +91,6 @@
     {
       "title": "Lifestyle",
       "packages": [
-        "com.rocketouch.CRCKosher2013",
         "global.hatzalah.app",
         "com.danismithproductions.yidkit"
       ]
