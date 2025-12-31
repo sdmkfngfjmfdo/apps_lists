@@ -96,7 +96,6 @@
     {
       "title": "Lifestyle",
       "packages": [
-        "com.rocketouch.CRCKosher2013",
         "global.hatzalah.app",
         "com.danismithproductions.yidkit",
         "com.google.android.apps.chromecast.app"
